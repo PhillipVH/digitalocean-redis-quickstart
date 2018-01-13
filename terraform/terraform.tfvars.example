@@ -1,0 +1,4 @@
+do_token = "<Your DigitalOcean Token here>"
+ssh_fingerprint = "<Your SSH fingerprint here>"
+pub_key = "<Path to your SSH public key>"
+pvt_key = "<Path to your SSH private key>"
