@@ -19,7 +19,7 @@ ansible-galaxy install DavidWittman.redis
 ```
 
 ### Setup Terraform
-Populate the `terraform/terraform.tfvars` file with your DigitalOcean API key, the path to your private and public keys, and the MD5 fingerprint of your public key. 
+Populate the `terraform/terraform.tfvars` file with your DigitalOcean API key, the path to your private and public keys, and the MD5 fingerprint of your public key. The provided `terraform/terraform.tfvars.example` file can be used as a reference.
 
 Initialize Terraform:
 ```bash
