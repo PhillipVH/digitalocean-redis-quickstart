@@ -27,7 +27,7 @@ cd terraform
 terraform init
 ```
 
-Run the Terraform defintion
+Run the Terraform definition
 ```bash
 terraform apply
 ```
